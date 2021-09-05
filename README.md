@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @BorhaneddineHamadou
-- 👀 I’m a computer science student
-- 🌱 I’m currently learning about web & mobile development
-- 📫 You can reach me by my email "haborhaneddine@gmail.com"
-
-<!---
-BorhaneddineHamadou/BorhaneddineHamadou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome !
+I'am Borhaneddine HAMADOU, fourth year student at the Higher National College of Computer Sciences of Algiers (ESI ex.INI). Web/Mobile Applications developer and Ui designer. I am interested about Machine Learning, Deep Learning and Data Science.
