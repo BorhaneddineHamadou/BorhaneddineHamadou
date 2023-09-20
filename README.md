@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Borhaneddine HAMADOU</h1>
-<h3 align="center">Fourth year Computer Science student at the Higher National College of Computer Sciences of Algiers (ESI ex.INI). Web/Mobile Applications developer and Ui designer. I'm interested about Machine Learning, Deep Learning and Data Science.</h3>
+<h3 align="center">Final year Computer Science student at the Higher National College of Computer Sciences of Algiers (ESI ex.INI). Web/Mobile Applications developer and Ui designer. I'm interested about Machine Learning, Deep Learning and Data Science.</h3>
 
 - 📫 How to reach me **kb_hamadou@esi.dz**
 
