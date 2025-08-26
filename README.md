@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **kb_hamadou@esi.dz**
 
-- 📄 Know about my experiences [borhaneddinehamadou.netlify.app](borhaneddinehamadou.netlify.app)
+- 📄 Know about my experiences [borhaneddinehamadou.netlify.app](https://borhaneddinehamadou.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
