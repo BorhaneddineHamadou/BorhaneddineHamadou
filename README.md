@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Borhaneddine HAMADOU</h1>
 <h3 align="center">Currently pursuing a PhD in scenario-based testing for autonomous systems, with a focus on safety validation and regulatory compliance. Graduated with distinction in Computer Systems Engineering from the Higher National School of Computer Science (ESI), Algiers.</h3>
 
-- 📫 How to reach me **kb_hamadou@esi.dz**
+- 📫 How to reach me **hamadou.borhaneddine@gmail.com**
 
-- 📄 Know about my experiences [borhaneddinehamadou.netlify.app](https://borhaneddinehamadou.netlify.app)
+- 📄 Know about my experiences [https://borhaneddinehamadou.github.io/](https://borhaneddinehamadou.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
